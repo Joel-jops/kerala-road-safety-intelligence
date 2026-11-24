@@ -1,5 +1,5 @@
 
-# Kerala Road Safety Intelligence Dashboard (2023–2025)
+# Kerala Road Safety Intelligence Dashboard(2023–2025)
 
 ## Project Overview
 An interactive Power BI analytics project focused on analysing road accident trends in Kerala from 2023 to 2025. The project uses data modelling, DAX, Power Query and interactive visualisations to explore accident patterns and road safety insights.
