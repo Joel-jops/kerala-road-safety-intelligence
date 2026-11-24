@@ -47,3 +47,28 @@ This project is intended for educational and analytical purposes. Findings depen
 
 ## Author
 Joeljo P S
+
+
+
+
+
+
+---
+
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+### 2. Geographic Risk Analysis
+![Geographic Risk](Geographic%20Risk.png)
+
+### 3. Vehicle & Severity Analysis
+![Vehicle & Severity](Vehicle%20%26%20Severity.png)
+
+### 4. Monsoon & Time Analysis
+![Monsoon & Time](Monsoon%20%26%20Time.png)
+
+### 5. Insights & Recommendations
+![Insights & Recommendations](Insights%20%26%20Recommendations.png)
+
